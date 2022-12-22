@@ -34,11 +34,11 @@ The folder structure has to be the following:
     |    ├── train.csv
     |    └── test.csv
     ├── Code     # column names for train, test data.
-    |    ├── new_data_processing.ipynb #Data processing and creation of the dataset
-    |    └── Binary Classification.ipynb #Classification algorithm and optimization
-    |    └── Creation NLP Dataset.ipynb #
-    |    └── Traduction_and_Classification.ipynb #
-    |    └── Binary Classification.ipynb #
+    |    ├── new_data_processing.ipynb      #Data processing and creation of the dataset
+    |    └── Binary Classification.ipynb    #Classification algorithm and optimization
+    |    └── Creation NLP Dataset.ipynb     #NLP file (not to use)
+    |    └── Traduction_and_Classification.ipynb    #NLP file (not to use)
+    |    └── Binary Classification.ipynb    #NLP file (not to use)
     └── README.md
 
 ### NLP files
